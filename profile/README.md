@@ -1,6 +1,6 @@
 # TechInnovateHub
 
-![TechInnovateHub Logo](logo.png) <!-- Replace with your organization logo -->
+<img src="img/logo.jpeg" alt="TechInnovateHub Logo" width="300" height="300">
 
 Welcome to TechInnovateHub, a collaborative space for tech enthusiasts, engineers, and developers who are passionate about exploring the frontiers of technology. Our organization is dedicated to fostering innovation, learning, and project development in the fields of embedded systems, IoT, and web development.
 
@@ -34,5 +34,6 @@ At TechInnovateHub, we believe in the power of bringing together hardware and so
 
 Join us on this exciting journey of discovery, creation, and innovation. Let's shape the future of technology, one project at a time.
 
-![TechInnovateHub Community](community.jpg) <!-- Replace with an image showcasing your community in action -->
+<img src="img/community.jpeg" alt="SmartGarden flowChart" width="50%">
+
 
