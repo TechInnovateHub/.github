@@ -26,11 +26,11 @@ At TechInnovateHub, we believe in the power of bringing together hardware and so
 
 ## Connect with Us
 
-- Website: [Your Website URL]
+<!-- - Website: [Your Website URL]
 - Twitter: [@TechInnovateHub](https://twitter.com/TechInnovateHub)
 - LinkedIn: [TechInnovateHub](https://www.linkedin.com/company/techinnovatehub)
 - Instagram: [@techinnovatehub](https://www.instagram.com/techinnovatehub)
-- Contact: [Your Contact Email]
+- Contact: [Your Contact Email] -->
 
 Join us on this exciting journey of discovery, creation, and innovation. Let's shape the future of technology, one project at a time.
 
