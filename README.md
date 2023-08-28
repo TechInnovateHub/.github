@@ -1,6 +1,6 @@
 # TechInnovateHub
 
-<img src="img/logo.jpeg" alt="TechInnovateHub Logo" width="300" height="300">
+<img src="img/LOGO2.png" alt="TechInnovateHub Logo" width="300" height="300">
 
 Welcome to TechInnovateHub, a collaborative space for tech enthusiasts, engineers, and developers who are passionate about exploring the frontiers of technology. Our organization is dedicated to fostering innovation, learning, and project development in the fields of embedded systems, IoT, and web development.
 
